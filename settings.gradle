@@ -1,0 +1,2 @@
+rootProject.name='WeatherLite'
+include ':app', ':fungamerefresh'
